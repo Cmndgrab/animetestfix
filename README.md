@@ -1,6 +1,6 @@
 # ✨ Anime finder ✨
 
-#### Anime finder allows the user to seach for a title, get random recommendations and get a list of most popular animes.
+#### Anime finder allows the user to search for a title, get random recommendations and get a list of most popular animes.
 
 # 🪄 Tools & APIs 🪄
 
