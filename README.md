@@ -8,7 +8,7 @@
 
 ⚡ [ViteJS](https://vitejs.dev/blog/announcing-vite2.html)
 
-⚛ [React](https://vitejs.dev/blog/announcing-vite2.html)
+⚛ [React](https://reactjs.org/l)
 
 
 
