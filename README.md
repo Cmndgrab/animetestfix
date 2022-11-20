@@ -15,4 +15,5 @@
 
 # Demo
 
-![animefindr](https://user-images.githubusercontent.com/78863735/202900982-58da4bde-eb48-446e-bd89-87a153fbc91e.gif)
+
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/78863735/202901319-b3d782f1-a9a5-45c2-84b0-a3ca40fdb5d6.gif)
