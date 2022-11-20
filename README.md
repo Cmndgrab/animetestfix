@@ -15,4 +15,4 @@
 
 # Demo
 
-![anime_finder](https://user-images.githubusercontent.com/78863735/202900934-f0317b10-9759-4f45-8bf7-75775e5bed5c.gif)
+![animefindr](https://user-images.githubusercontent.com/78863735/202900982-58da4bde-eb48-446e-bd89-87a153fbc91e.gif)
